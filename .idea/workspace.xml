@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="711e3181-6ff5-4ef6-804b-ac7117346b5b" name="Default" comment="opzet bootstrap">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Admin.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Home.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Persoon.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/helpers/MY_form_helper.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/helpers/MY_html_helper.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/helpers/MY_url_helper.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/helpers/notation_helper.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Authex.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/Era_model.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/Person_model.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/Philosopher_model.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/views/admin_panel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/views/ajax_philosopher.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/views/main_content.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/views/main_header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/views/main_master.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application/views/main_menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/validator.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/application/.htaccess" afterPath="$PROJECT_DIR$/application/.htaccess" />
-      <change beforePath="$PROJECT_DIR$/application/config/autoload.php" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
-      <change beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change beforePath="$PROJECT_DIR$/application/config/database.php" afterPath="$PROJECT_DIR$/application/config/database.php" />
-      <change beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-grid.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-grid.css.map" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-grid.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-grid.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-reboot.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-reboot.css.map" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-reboot.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-reboot.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css.map" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/images/AlbertEinstein.jpg" afterPath="$PROJECT_DIR$/assets/images/AlbertEinstein.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/LightsThinking.jpg" afterPath="$PROJECT_DIR$/assets/images/LightsThinking.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/SchoolOfPhilosophers.jpg" afterPath="$PROJECT_DIR$/assets/images/SchoolOfPhilosophers.jpg" />
-      <change beforePath="$PROJECT_DIR$/index 2.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.js" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" afterPath="$PROJECT_DIR$/assets/js/bootstrap.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js.map" />
-      <change beforePath="$PROJECT_DIR$/system/.htaccess" afterPath="$PROJECT_DIR$/system/.htaccess" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,17 +40,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main_master.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main_master.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/main_master.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
+            <state relative-caret-position="457">
               <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main_content.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main_content.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/main_content.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="840">
@@ -306,7 +247,7 @@
       <workItem from="1524209712201" duration="11723000" />
       <workItem from="1524569612515" duration="5588000" />
       <workItem from="1526832790530" duration="590000" />
-      <workItem from="1526837585065" duration="902000" />
+      <workItem from="1526837585065" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="opzet bootstrap">
       <created>1523994513868</created>
@@ -319,7 +260,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37018000" />
+    <option name="totallyTimeSpent" value="37626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -689,18 +630,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/main_master.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/main_content.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/main_master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
           <folding />
         </state>
       </provider>
